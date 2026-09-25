@@ -14,7 +14,7 @@ from tensorflow.keras.applications.efficientnet import preprocess_input
 # SETTINGS
 # =========================================================
 
-MODEL_PATH = "testmodel/cocoscan_efficientnetb4_offline.keras"
+MODEL_PATH = "testmodel/cocoscan_efficientnetb4_v1_portable.keras"
 LABEL_PATH = "testmodel/class_labels.json"
 
 IMG_SIZE = 456
